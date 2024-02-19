@@ -7,8 +7,12 @@
 - ⚡ Fun fact: ...
   
 ##Technical Skills
-https://img.shields.io/badge/Code-Python-blue
-https://img.shields.io/badge/Code-Java-red
+![Static Badge](https://img.shields.io/badge/Code-Java-red)
+![Static Badge](https://img.shields.io/badge/Code-Python-blue)
+![Static Badge](https://img.shields.io/badge/Code-HTML-yellow)
+![Static Badge](https://img.shields.io/badge/Code-Sigma16-purple)
+
+
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tinlokliu)](https://github.com/tinlokliu)
