@@ -6,7 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
-##Technical Skills
 ![Static Badge](https://img.shields.io/badge/Code-Java-red)
 ![Static Badge](https://img.shields.io/badge/Code-Python-blue)
 ![Static Badge](https://img.shields.io/badge/Code-HTML-yellow)
